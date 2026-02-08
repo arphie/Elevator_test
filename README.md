@@ -1,5 +1,22 @@
 # Elevator Challenge
 
+## To run the project
+###Start the Server: Open a terminal and run the command defined in your package.json:
+```npm run server```
+
+###Start the Client: Open another terminal (or split pane) and serve your frontend:
+```
+cd web-app-version
+npx serve
+```
+
+## to Test
+- Open localhost:3000 (or whatever port npx serve gives you).
+- Click "Bob". Check your Server Terminal; you should see "Added Request: Bob".
+- Click "Dispatch".
+- When the elevator stops at floor 3, check the terminal: "Added Rider: Bob" and "Request removed".
+- When it stops at floor 9: "Rider leaving: Bob".
+
 Exam requirement is upto level 6, but you can work upto level 9 if you want to.
 
 ## Description
