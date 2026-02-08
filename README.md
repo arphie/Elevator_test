@@ -1,10 +1,10 @@
 # Elevator Challenge
 
 ## To run the project
-###Start the Server: Open a terminal and run the command defined in your package.json:
+### Start the Server: Open a terminal and run the command defined in your package.json:
 ```npm run server```
 
-###Start the Client: Open another terminal (or split pane) and serve your frontend:
+### Start the Client: Open another terminal (or split pane) and serve your frontend:
 ```
 cd web-app-version
 npx serve
