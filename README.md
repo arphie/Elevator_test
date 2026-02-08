@@ -1,5 +1,7 @@
 # Elevator Challenge
 
+Exam requirement is upto level 6, but you can work upto level 9 if you want to.
+
 ## To run the project
 ### Start the Server: Open a terminal and run the command defined in your package.json:
 ```npm run server```
@@ -16,8 +18,6 @@ npx serve
 - Click "Dispatch".
 - When the elevator stops at floor 3, check the terminal: "Added Rider: Bob" and "Request removed".
 - When it stops at floor 9: "Rider leaving: Bob".
-
-Exam requirement is upto level 6, but you can work upto level 9 if you want to.
 
 ## Description
 
